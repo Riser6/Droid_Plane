@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3,4,5,6,7,8 python -m torch.distributed.launch --nproc_per_node 6 train_baseline.py --restore=2 --suffix=warping_refine
