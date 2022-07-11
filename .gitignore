@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+scannet/
+test/
+val2017.zip
+checkpoint/
+logs/
+SUNRGBD/
+test/
+
